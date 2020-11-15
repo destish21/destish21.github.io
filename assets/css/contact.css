@@ -79,8 +79,9 @@ h2 {
 @media screen and (min-width:425px) and (max-width:1223px) {
      
 #form-cont {
+    max-width:680px
         width: 50%;
-        /* display: block; */
+        
     }
 }
 
