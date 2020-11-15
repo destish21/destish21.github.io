@@ -1,6 +1,6 @@
 # my-portfolio
 
-URL: https://destish21.github.io/my-portfolio
+URL: https://destish21.github.io/
 
 I used Bootstrap link to fixed navbar and as well as font awesome.min.css.
 
