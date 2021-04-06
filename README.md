@@ -1,4 +1,4 @@
-# React_Portfolio_19
+# React_Portfolio_20
 
 ## License
    [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -116,7 +116,7 @@
 
 ## Developers Contact Information
    * LinkdIn Profile : [Desta Mulualem](https://www.linkedin.com/in/desta-mulualem-6718b1203/)
-   * Deployed URL : https://destish21.github.io/react_portfolio_20/
+   * Deployed URL : https://destish21.github.io/
    * github URL :   https://github.com/destish21/react_portfolio_20
    * My ResumGoogleDocs Link: [Resume Link](https://docs.google.com/document/d/1kLc-bR0cb3ASljSuCPTRCOJI1B2KnBIMRpskvdM__WE/edit?usp=sharing)
 
