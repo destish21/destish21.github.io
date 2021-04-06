@@ -55,7 +55,7 @@
 
    * The developer is authorizing a free installation by cloning from the repository code:- 
 
-   * [destish21/react_portfolio_20](https://github.com/destish21/react_portfolio_20)
+   * [destish21/react_portfolio_20](https://github.com/destish21/destish21.github.io)
 
    * you can run by node `npm start` react_portfolio_20.
 
@@ -70,7 +70,7 @@
 
    * creat repository in your github, then clone the code from my github repository,
 
-   * [destish21/react_portfolio_20](https://github.com/destish21/react_portfolio_20)
+   * [destish21/react_portfolio_20](https://github.com/destish21/destish21.github.io)
 
    * Install all necessary  node_moduales like all react packages, break up to components, and build etc.
 
@@ -106,7 +106,7 @@
    
    ## Contribution
 
-   * This is Contributed by [destish21/react_portfolio_20](https://github.com/destish21/react_portfolio_20). 
+   * This is Contributed by [destish21/react_portfolio_20](https://github.com/destish21/destish21.github.io). 
    
    * But Contribution, issues and feature requests are welcome.
    * Feel free to check issues page if you want to contribute. 
@@ -117,7 +117,7 @@
 ## Developers Contact Information
    * LinkdIn Profile : [Desta Mulualem](https://www.linkedin.com/in/desta-mulualem-6718b1203/)
    * Deployed URL : https://destish21.github.io/
-   * github URL :   https://github.com/destish21/react_portfolio_20
+   * github URL :   https://github.com/destish21/destish21.github.io
    * My ResumGoogleDocs Link: [Resume Link](https://docs.google.com/document/d/1kLc-bR0cb3ASljSuCPTRCOJI1B2KnBIMRpskvdM__WE/edit?usp=sharing)
 
    * Email : destish21@yahoo.com
