@@ -60,9 +60,9 @@
    * you can run by node `npm start` react_portfolio_20.
 
    # screenshot Image 1
-   * ![react_portfolio_20](./public/assets/Images/home.png)
-    * ![react_portfolio_20](./public/assets/Images/co1.png)
-   * ![react_portfolio_20](./public/assets/Images/co2.png)
+   * ![react_portfolio_20](./public/assets/images/home.png)
+    * ![react_portfolio_20](./public/assets/images/co1.png)
+   * ![react_portfolio_20](./public/assets/images/co2.png)
 
    ## Usage Instructions
    ## To see my portfolio first Click home then you can see each of them
@@ -96,13 +96,13 @@
    * Screenshot Images 2
  
   
-   * ![react_portfolio_20](./public/assets/Images/ab1.png)
-   * ![react_portfolio_20](./public/assets/Images/ab2.png)
-   * ![react_portfolio_20](./public/assets/Images/pf1.png)
-   * ![react_portfolio_20](./public/assets/Images/pf2.png)
-   * ![react_portfolio_20](./public/assets/Images/pf3.png)
-   * ![react_portfolio_20](./public/assets/Images/pf4.png)
-   * ![react_portfolio_20](./public/assets/Images/pf5.png)
+   * ![react_portfolio_20](./public/assets/images/ab1.png)
+   * ![react_portfolio_20](./public/assets/images/ab2.png)
+   * ![react_portfolio_20](./public/assets/images/pf1.png)
+   * ![react_portfolio_20](./public/assets/images/pf2.png)
+   * ![react_portfolio_20](./public/assets/images/pf3.png)
+   * ![react_portfolio_20](./public/assets/images/pf4.png)
+   * ![react_portfolio_20](./public/assets/images/pf5.png)
    
    ## Contribution
 
