@@ -102,7 +102,7 @@
    * ![react_portfolio_20](./public/assets/images/pf3.png)
    * ![react_portfolio_20](./public/assets/images/pf4.png)
    * ![react_portfolio_20](./public/assets/images/pf5.png)
-   * ![react_portfolio_20](./public/assets/Images/pf6.png)
+   * ![react_portfolio_20](./public/assets/images/pf6.png)
 
    ## Contribution
 
@@ -117,7 +117,7 @@
 ## Developers Contact Information
    * LinkdIn Profile : [Desta Mulualem](https://www.linkedin.com/in/desta-mulualem-6718b1203/)
    * Deployed URL : https://destish21.github.io/
-   * github URL :   https://github.com/destish21/destish21.github.io
+   * github URL : https://github.com/destish21/destish21.github.io
    * My ResumGoogleDocs Link: [Resume Link](https://docs.google.com/document/d/1kLc-bR0cb3ASljSuCPTRCOJI1B2KnBIMRpskvdM__WE/edit?usp=sharing)
 
    * Email : destish21@yahoo.com
