@@ -61,7 +61,7 @@
 
    # screenshot Image 1
    * ![react_portfolio_20](./public/assets/images/home.png)
-    * ![react_portfolio_20](./public/assets/images/co1.png)
+   * ![react_portfolio_20](./public/assets/images/co1.png)
    * ![react_portfolio_20](./public/assets/images/co2.png)
 
    ## Usage Instructions
@@ -102,7 +102,8 @@
    * ![react_portfolio_20](./public/assets/images/pf3.png)
    * ![react_portfolio_20](./public/assets/images/pf4.png)
    * ![react_portfolio_20](./public/assets/images/pf5.png)
-   
+   * ![react_portfolio_20](./public/assets/Images/pf6.png)
+
    ## Contribution
 
    * This is Contributed by [destish21/react_portfolio_20](https://github.com/destish21/destish21.github.io). 

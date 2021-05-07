@@ -22,7 +22,7 @@ const About = () => {
           ensuring the responsiveness of an applications. I have built substantial knowledge in identifying programing
           errors and troubleshooting them accordingly. I have a solid knowledge on HTML5/CSS, Bootstrap, Git,
           JavaScript, Express, Node.js,
-          jQuery, APIs, AJAX, ES5, ES6 MySQL MongoDB.
+          jQuery, APIs, AJAX, ES5, ES6 MySQL MongoDB, and ReactJs.
         </p>
         </div>
       </div>
@@ -39,7 +39,7 @@ const About = () => {
           I worked hard people to get good governance, Democracy and Justice.
           In kolfe keranio /Addis ababa,
           I worked as Quality of Education and assurance officer.
-          In Kolfe Keranio in worda -7/Addis ababa I worked as administrator
+          I worked as administrator in Kolfe Keranio in worda -7/Addis ababa.
           Worthington,MN swift pork company(JBS),
           I Worked in cool side where I worked fair, friendly and honestly with a strong work ethic.
           When I left I got appreciated by the supervisor as the most active employee to work respectful to my
@@ -54,7 +54,7 @@ const About = () => {
           </p>
           <div className="about-btn-wrap d-flex justify-content-center justify-content-center">
             <a href="https://github.com/destish21" className="btn btn-dark">GitHub</a>
-            <a href={process.env.PUBLIC_URL+"/Resume3.pdf"} className="btn btn-secondary"> Resume</a>
+            <a href={process.env.PUBLIC_URL+"/Resume.pdf"} className="btn btn-secondary"> Resume</a>
             <a href="https://www.linkedin.com/in/desta-mulualem-6718b1203/" className="btn btn-dark">LinkedIn</a>
           </div>
         </div>
